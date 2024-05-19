@@ -1,3 +1,5 @@
+package Lecture1;
+
 public class Lecture1Java {
 
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package Lecture2
+
 import common.Person
 
 fun main() {

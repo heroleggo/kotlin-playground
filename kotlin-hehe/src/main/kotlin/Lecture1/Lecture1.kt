@@ -1,3 +1,5 @@
+package Lecture1
+
 fun main() {
     var number1 = 10L // mutable
     // var number1: Long = 10L (OK)

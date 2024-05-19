@@ -1,3 +1,5 @@
+package Lecture2;
+
 public class Lecture2Java {
     // not safe (str이 null이면 안됨)
     public boolean startsWithA(String str) {
